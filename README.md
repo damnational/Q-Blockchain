@@ -5,8 +5,8 @@
 
 ## Sistem gereksinimleri:
 
-* NOT: Bilgi yok, manuel olarak test ettim
-* Hetzner kullandım.
+* NOT: Bilgi yok, manuel olarak test edildi.
+* Hetzner kullanıldı.
 * Varsa 3 CPU işlemci garanti olur.
 ```
 2 CPU
