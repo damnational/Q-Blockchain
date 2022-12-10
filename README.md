@@ -1,20 +1,7 @@
 <h1 align="center"> Q Blockchain </h1>
 
-
-## İhtiyacımız olanlar ve notlar:
-
-* Bana sorularınız ve yardım ihtiyacınız için: [Telegram](https://t.me/+H_ecre-MCCg4ZTA0)
-* Q Blockchain'i ödülsüz testnetinden beri takip ediyorum
-* Burada yapılanlar kayıt gibi düşünün. Kayıt 31 Aralık'ta biter, Testnet 1 Ocak'ta başlar, 31 Mart'a kadar sürer
-* Yani 4 ay 20 gün çalıştırmak demek, yüksek bir süre, ekip makalesinde bunu ödüllerle karşılayacağını söylüyor
-* Ben garanti olduğunu düşünmüyorum, risk size kalmış, bu testnete katılıp katılmamak tamamen kişisel fikrinizdir
-* Testnet bitince KYC olacakmış.
-* Ödül dönemi kilit detayları var [makale](https://medium.com/q-blockchain/q-blockchain-validator-onboarding-program-part-1-validator-incentivized-testnet-567ef6e4002e) Katılmanın ne kadar mantıklı olduğunu siz seçin.
-* Hem vakit hemde malum hastalıklardan ötürü rehber kısa ve öz hazırlandı (rehber 4 kez test edildi)
-* Bu vakit darlığından ve hastalığımdan ötürü rehberin paylaşıldığı ilk gün grupta aktif olamayacağım.
 * Proje discordu: [Discord kanalı](https://discord.gg/pRkZRahJ)
 * Repoyu sağ üstten forklayıp yıldızlamayı unutmayın!
-* Eksik gördüklerinizi pull request yapmayı unutmayın!
 
 ## Sistem gereksinimleri:
 
